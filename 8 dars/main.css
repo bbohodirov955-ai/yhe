@@ -1,0 +1,243 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 85%;
+    max-width: 100%;
+}
+
+.header-wrapper {
+
+
+
+
+    margin-top: 46px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-list {
+    display: flex;
+    gap: 40px;
+}
+
+.header-link {
+    color: #202020;
+    font-family: Mulish;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.center-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.kimdir {
+    width: 300px;
+
+}
+
+.kimdir button {
+    padding: 10px 20px;
+    background-color: aqua;
+    border-radius: 25px;
+    color: aliceblue;
+}
+
+.qorin-qismi {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+
+.qorin-qismi button {
+    padding: 10px 20px;
+    border-radius: 25px;
+    background: none;
+    border: 1px solid aqua;
+}
+
+.oota {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.oota div {
+    width: 380px;
+    height: 280px;
+    background: #e7e7ee;
+    margin: 20px;
+    padding-top: 50px;
+    border-radius: 20px;
+
+}
+
+.oota div h4 {
+    margin-top: 40px;
+}
+
+.ismoil {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ismoil span {
+    width: 30%;
+
+
+}
+
+.ismoil span h4 {
+    font-size: 35px;
+}
+
+.ismoil span p {
+    margin-top: 40px;
+}
+
+.ismoil span button {
+    margin-top: 20px;
+}
+
+.man {
+    font-family: Mulish;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    letter-spacing: 0%;
+
+}
+
+.ismoil2 {
+    width: 400px;
+    gap: 20px;
+
+}
+
+.ismoil {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.man2 {
+    font-family: Mulish;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+
+    width: 330px;
+    justify-content: space-between;
+
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 25px;
+    background: none;
+    border: 1px solid aqua;
+
+}
+.durdona h3{
+    text-align: center;
+}
+.ota3 h1{
+    text-align: center;
+    
+}
+.mohidil{
+    display: flex;
+    width: 25px;
+    height: 130px;
+    background-color: #FFFFFF;
+    gap: 50px;
+    margin-top: 10%;
+   
+}
+.yoldosh{
+    color: aqua;
+    margin-top: 15px;
+}
+.munis{
+    text-align: center;
+    margin-top:15%;
+    
+}
+.ul{
+    display: flex;
+}
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .footer {
+    background: linear-gradient(to bottom, #70cfff, #4a90e2);
+    color: white;
+    padding: 40px 60px;
+    margin-top: 15%;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .footer-section {
+    flex: 1 1 200px;
+    margin: 20px;
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .description {
+    margin-top: 10px;
+    line-height: 1.5;
+    font-size: 14px;
+    max-width: 250px;
+  }
+  
+  .footer-section h4 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.8;
+  }
+  
+  .footer-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
